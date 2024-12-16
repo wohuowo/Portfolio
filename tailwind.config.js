@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        body: "black",
+        body: "white",
         "selected-text": "#A3A3FF",
         theme: "#3F3FFF",
         nav: "#404053",
@@ -17,7 +17,7 @@ module.exports = {
         input: "#2A2A35",
       },
       fontFamily: {
-        poppins: ["'Poppins'", "san-serif"],
+        cabinet: ["'Cabinet Grotesk''", "san-serif"],
       },
     },
   },
